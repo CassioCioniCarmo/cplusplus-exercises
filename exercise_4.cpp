@@ -1,5 +1,5 @@
 /**
-    Exercice - 3: Conditional Statements
+    Exercice - 4: Conditional Statements
     Given a positive integer , do the following:
     -   If , print the lowercase English word corresponding to the number (e.g., one for , two for , etc.).
     -   If , print Greater than 9.
