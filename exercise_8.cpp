@@ -1,5 +1,5 @@
 /**
-    Exercice - 7: Pointer 
+    Exercise - 8: Pointer 
 
     Sample Input
 

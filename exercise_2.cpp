@@ -1,5 +1,5 @@
 /**
-    Exercice - 2: Input and Output
+    Exercise - 2: Input and Output
     Reading input from stdin and printing output to stdout
     
     Cassio Cioni Carmo - 04/04/2023

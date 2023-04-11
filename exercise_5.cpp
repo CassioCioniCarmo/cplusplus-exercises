@@ -1,5 +1,6 @@
 /**
-    Exercice - 5: For Loop
+    Exercise - 5: For Loop
+    
     Sample Input
     8
     11

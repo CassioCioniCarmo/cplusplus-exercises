@@ -1,5 +1,5 @@
 /**
-    Exercice - 1: Hello World!
+    Exercise - 1: Hello World!
     First C++ program just to print the phrase "Hello World!"
     
     Cassio Cioni Carmo - 03/30/2023

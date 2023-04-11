@@ -1,10 +1,10 @@
 /**
-    Exercice - 3: Basic Data Types
+    Exercise - 3: Basic Data Types
+
     Sample Input
-
     3 12345678912345 a 334.23 14049.30493
-    Sample Output
 
+    Sample Output
     3
     12345678912345
     a

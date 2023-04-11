@@ -1,5 +1,5 @@
 /**
-    Exercice - 6: Functions
+    Exercise - 6: Functions
 
     Sample Input
     3

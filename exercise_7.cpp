@@ -1,13 +1,12 @@
 /**
-    Exercice - 7: Arrays 
+    Exercise - 7: Arrays 
     Print the N integers of the array in the reverse order, space-separated on a single line.
 
-  Sample Input
-
+    Sample Input
     4
     1 4 3 2
-    Sample Output
 
+    Sample Output
     2 3 4 1
 
     Cassio Cioni Carmo - 04/09/2023
