@@ -1,5 +1,5 @@
 /**
-    Exercise - 7: Variable Sized Arrays 
+    Exercise - 9: Variable Sized Arrays 
     Consider an n-element array, a, where each index i in the array contains a reference to an array of k integers (where the value of k varies from array to array). 
 
     Sample Input
